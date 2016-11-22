@@ -1,0 +1,76 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+                background-color: lightgrey;
+            }
+
+     
+/*img{
+	width: 400px;
+	
+}*/
+
+.brand{
+      	height: 100px;
+      	width: 200px;
+      }
+.right{
+	float: right;
+}
+#nav1{
+ 
+	width: 700px;
+	margin-left: 350px;
+	
+}
+
+/*.carousel-inner{
+	background-color: pink;
+ 
+  
+}*/
+li.search{
+  margin-top: 10px;
+}
+
+h1{
+	font-size: 50px;
+}
+#rw{
+ margin-top: 40px;
+}
+#mg{
+  height: 250px;
+  width: 350px;
+}
+
+#mgs{
+  height: 150px;
+  width: 350px;
+}
+
+.thumbnail{
+  text-align: center;
+}
+#brand{
+ width: 100px;
+ margin-left: 80px;
+ margin-right: 100px;
+ margin-top: -10px;
+}
+footer{
+  background-color: #ffe6e6;
+}
+
+ .pull-right{
+  padding-right: 180px;
+ }
+
+
